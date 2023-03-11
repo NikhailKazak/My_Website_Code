@@ -45,7 +45,8 @@ BODY{
 .Art-Gallery {
     object-fit: cover;
     height: 30%;
-    max-width: 300px;
+    width: 60%;
+    max-width: 250px;
     border: 10px solid #555;
     border-color: black;
     margin-top: 2%;

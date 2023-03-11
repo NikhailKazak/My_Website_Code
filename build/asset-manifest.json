@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.e209bc34.css",
+    "main.css": "/static/css/main.2994e465.css",
     "main.js": "/static/js/main.85917ec7.js",
     "static/media/Drawing_MegaLucario.png": "/static/media/Drawing_MegaLucario.02f5ce7dfe5ef1810af9.png",
     "static/media/Drawing_Ahsoka.png": "/static/media/Drawing_Ahsoka.eaaefe1324d3dedcd19e.png",
@@ -9,11 +9,11 @@
     "static/media/Drawing_Gwenom.png": "/static/media/Drawing_Gwenom.4e38871b5a7fe64c3d3a.png",
     "static/media/Drawing_Vader.png": "/static/media/Drawing_Vader.80a1a2af6f24e13c60e9.png",
     "index.html": "/index.html",
-    "main.e209bc34.css.map": "/static/css/main.e209bc34.css.map",
+    "main.2994e465.css.map": "/static/css/main.2994e465.css.map",
     "main.85917ec7.js.map": "/static/js/main.85917ec7.js.map"
   },
   "entrypoints": [
-    "static/css/main.e209bc34.css",
+    "static/css/main.2994e465.css",
     "static/js/main.85917ec7.js"
   ]
 }
