@@ -4,7 +4,7 @@
 import React from "react";
 import "../pages/bio.css";
 import Sidebar from './Sidebar'
-import PFP from "../images/pic0.png"
+import PFP from "../images/pic1_1.png"
 
   
 //View to return 
@@ -35,13 +35,17 @@ const BioPage = () => {
 
                     <div class="Note3">A little bit about me...</div>
                     <div class="Note3">
-                        I am a 4th year student at Carleton University in Ottawa, Ontario. 
-                        Currently, I am interning at Warner Bros. Discovery, as a Software
-                        Tester. As the name implies, I get to test software to ensure that 
-                        any action performed on a given application results in a 
-                        predicatable outcome. In addition to this, I also get to automate 
-                        these tests. As for my hobbies, I enjoy programming in addition to
-                        video gaming, drawing, photography and reading.
+                        I am a 4th year Computer Science student at Carleton University in 
+                        Ottawa, Ontario. 
+                        Currently, I am attending summer courses and will be returning to 
+                        Warner Bros. Discovery in the fall, as an intern. 
+                        As far as hobbies go, I enjoy programming in addition to
+                        video gaming, drawing, photography and more. Recently, I've picked
+                        up (after several attempts to get back into it XD) Unreal Engine 5.
+                        Game and Cinematic development can be a very time consuming process,
+                        especially when it's a hobby and not just something you have time to 
+                        do everyday... Anyways, I hope you like the site, and feel free to 
+                        contact me at any of the given links :)
                     </div>
                 </div>
             </div>

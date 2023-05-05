@@ -46,9 +46,10 @@ BODY{
 .PFP {
     margin-top: 2%;
     margin-bottom: 2%;
-    border: 8px solid none;
-    max-width: 450px;
+    border: 8px solid rgb(45, 44, 44);
+    max-width: 300px;
     height: auto;
+    position: center;
 }
 
 .sidebar{

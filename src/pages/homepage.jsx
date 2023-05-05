@@ -16,14 +16,14 @@ const LandingPage = () => {
           <div class="HEADER">Welcome to my Website!</div>
           
           <div class="VERSION">
-              <p>Version 1.3.0</p>
+              <p>Version 1.3.1</p>
               <div class="icon"><img class="Logo" src={Logo} alt="My Logo"/></div>
           </div>
 
           <div class="BUTTONS">
             
             <div class="PROFNET">
-              <p>Professional Networks & Websites:</p>
+              <p>Networks & Websites:</p>
               <a href="https://github.com/NikhailKazak" target="_blank" rel="noopener noreferrer">
                   <span>GitHub</span>
               </a>

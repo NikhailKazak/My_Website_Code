@@ -52,7 +52,10 @@ const ArtPage = () => {
         <div class="grid-item-sidebar"><Sidebar/></div>
             <div class="grid-item-non-sidebar"><b>Art Gallery</b>
               <div class="Note1">
-                Welcome to my art wall! Click the arrows to view the next or last image
+                Welcome to my art wall, the place where I post my 
+                art in a fancy, little slideshow! 
+                Click the arrows to view the next or last image (more to
+                come at a later date)
               </div>
               <div class="intro-bottom">
                 <div class="intro-section">
