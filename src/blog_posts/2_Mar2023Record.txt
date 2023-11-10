@@ -1,0 +1,16 @@
+March 11, 2023: 
+So it's been a while since my site was 
+last available... This issue was primarly cause by a 
+discontinuation of Heroku's free tier web hosting. 
+That being said, I am back! And the site is better than 
+ever. 
+To non-programmers, this'll mean nothing, but the 
+main difference of this version of the site is that it 
+was made using React, whereas the last was just a Node
+server and EJS. From this point onwards, the site will 
+be hosted via Firebase! 
+Anyways, as for what I've been up to, I've recently 
+started an internship at Warner Bros. Discovery! 
+Honestly, I've really enjoyed my experience so far at 
+WBD, as it has not only been a great learning 
+experience, but it's also been really fun.

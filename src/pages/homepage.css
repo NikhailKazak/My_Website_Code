@@ -1,0 +1,82 @@
+* {margin: 0; padding: 0}
+
+
+BODY {
+    overflow: auto;
+    position: center;
+    
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 100%;
+    font-weight: 100;
+    text-align: center;
+
+    display: block;
+    margin: auto;
+    position: center;
+    text-align: center;
+    width: 80%;
+    transform: translate(0%,15%);
+    background-image: linear-gradient(#000000, #650396);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+
+div.BUTTONS p {
+    font-size: 125%;
+	padding-bottom: 1%;
+}
+
+div.CONTENT {
+    /*Adds space to the top of the welcome*/
+    margin-top: +1%; 
+}
+
+div.HEADER {
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 333%;
+    font-weight: bold;
+    text-align: center;
+    /*Adds space to the top of the welcome*/
+    margin-top: +0%; 
+}
+
+div.VERSION {
+    /*Adds space between Logo and bottom content, e.g. networks*/
+    margin-bottom: +3%; 
+}
+
+.Logo {
+    /*Adds space between version number and logo*/
+    margin-top: +4%; 
+    height: auto;
+    max-width: 100%;
+    
+    transform: scale(0.75, 0.75);
+    -ms-transform: scale(0.75, 0.75);
+    -webkit-transform: scale(0.75, 0.75);
+}
+
+
+.BUTTONS a {
+    background: #fff1;
+    border: 2px solid;
+    border-color: whitesmoke;
+    color: white;
+    display: inline-block; 
+    width: 20%;
+    margin: auto;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 16px;
+    font-style: normal;
+    margin: 0px 5px 0px 5px;
+    transition: box-shadow .5s, margin .5s;
+}
+
+.BUTTONS a:hover {
+    box-shadow: 1px 1px white,2px 2px white,3px 3px white,4px 4px white,5px 5px white;
+    margin: -5px 10px 5px 0px !important;
+    text-decoration: none;
+}

@@ -1,0 +1,99 @@
+* {margin: 0; padding: 0;}
+
+BODY{
+    background-image: linear-gradient(#000000, #650396);
+}
+
+
+.grid-container {
+    display: grid;
+    grid-template-columns: 10% 100%;
+    grid-gap: 10px;
+    width: 80%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+/* .grid-container .grid-item-non-sidebar {
+  text-align: center;
+  font-size: 30px;
+  position: relative;
+  top: -10%;
+}
+
+.grid-container .grid-item-sidebar {
+    text-align: center;
+    font-size: 30px;
+    position: relative;
+    top: -5%;
+} */
+
+.Note1{
+    margin-top: 10px;
+    font-size: 75%;
+}
+
+.Note2{
+    margin-top: -2%;
+    font-size: 75%;
+}
+
+.Note3{
+    margin-top: 1%;
+    font-size: 60%;
+}
+
+.Note4{
+    margin-top: 1%;
+    font-size: 60%;
+    margin-inline: 10%;
+    /* text-align:left; */
+}
+
+.PFP {
+    margin-top: 2%;
+    margin-bottom: 2%;
+    border: 8px solid rgb(45, 44, 44);
+    max-width: 300px;
+    height: auto;
+    position: center;
+}
+
+.sidebar{
+    display:center;
+    transform: translate(-1500%,-10%);
+    padding-top: 10%;
+    width:10%;
+    height:100%;
+    position: absolute;
+}
+
+.sidebar svg{
+    color: rgb(233, 233, 233);
+    background-color: linear-gradient(#000000, #650396);
+}
+
+.Link svg{
+    color: rgb(233, 233, 233);
+}
+
+.BUTTONS a {
+    background: #fff1;
+    border: 2px solid;
+    border-color: whitesmoke;
+    color: white;
+    display: inline-block; 
+    width: 20%;
+    margin: auto;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 16px;
+    font-style: normal;
+    margin: 0px 5px 0px 5px;
+    transition: box-shadow .5s, margin .5s;
+}
+
+.BUTTONS a:hover {
+    box-shadow: 1px 1px white,2px 2px white,3px 3px white,4px 4px white,5px 5px white;
+    margin: -5px 10px 5px 0px !important;
+    text-decoration: none;
+}

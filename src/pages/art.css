@@ -1,0 +1,61 @@
+* {margin: 0; padding: 0;}
+
+BODY{
+    background-image: linear-gradient(#000000, #650396);
+}
+
+
+.grid-container {
+    display: grid;
+    grid-template-columns: 10% 100%;
+    grid-gap: 10px;
+    width: 80%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.grid-container .grid-item-non-sidebar {
+  text-align: center;
+  font-size: 30px;
+  position: relative;
+  top: -10%;
+}
+
+.grid-container .grid-item-sidebar {
+    text-align: center;
+    font-size: 30px;
+    position: relative;
+    top: -5%;
+}
+
+.sidebar{
+    display:center;
+    transform: translate(-1500%,-10%);
+    padding-top: 10%;
+    width:10%;
+    height:100%;
+    position: absolute;
+}
+
+.sidebar svg{
+    color: rgb(233, 233, 233);
+    background-color: linear-gradient(#000000, #650396);
+}
+
+.Art-Gallery {
+    width: auto; 
+    height: 250px; 
+    object-fit: cover;
+    max-width: 100%;
+    border: 10px solid black;
+    margin-top: 2%;
+}
+
+.Buttons-Art-Lbtn{
+    margin-right: 3%;
+}
+
+.Note1{
+    margin-top: 1%;
+    font-size: 70%;
+}

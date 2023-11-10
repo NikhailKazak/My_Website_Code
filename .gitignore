@@ -1,0 +1,11 @@
+# dependencies
+/node_modules
+
+# directories
+/.firebase
+/build
+
+# files
+firebase.json
+.firebaserc
+.env
