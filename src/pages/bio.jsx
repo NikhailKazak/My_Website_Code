@@ -43,8 +43,7 @@ const BioPage = ({ analytics }) => {
                     <div className="Note3">
                         I am a 4th year Computer Science student at Carleton University in 
                         Ottawa, Ontario. 
-                        Currently, I am attending summer courses and will be returning to 
-                        Warner Bros. Discovery in the fall, as an intern. 
+                        Currently, I am attending courses and work part time at WBD. 
                         As far as hobbies go, I enjoy programming in addition to
                         video gaming, drawing, photography and more. 
                         Anyways, I hope you like the site, and feel free to 
