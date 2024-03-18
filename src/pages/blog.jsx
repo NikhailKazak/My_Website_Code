@@ -4,7 +4,7 @@
 import React, { useState, useEffect } from "react";
 import "../pages/blog.css";
 import Sidebar from './Sidebar'
-import filePath from "../blog_posts/6_Nov2023Record.txt"
+import filePath from "../blog_posts/17_Mar2024Record.txt"
 import { logEvent } from 'firebase/analytics';
 
 //View to return 
